@@ -1,2 +1,2 @@
-tienda
-html+css+javascript
+# tienda-online
+Diseño Tienda Online | HTML, CSS, JAVASCRIPT
